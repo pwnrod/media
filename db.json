@@ -1,10 +1,46 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Myra"
-        }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Javier Anderson",
+      "id": 2
+    },
+    {
+      "name": "Malcolm Bogisich",
+      "id": 3
+    },
+    {
+      "name": "Lynn Price",
+      "id": 4
+    },
+    {
+      "name": "Mrs. Alexandra Shields",
+      "id": 5
+    },
+    {
+      "name": "Morris Brown PhD",
+      "id": 6
+    },
+    {
+      "name": "Dr. Al Walker",
+      "id": 7
+    },
+    {
+      "name": "Sheri Lindgren",
+      "id": 8
+    },
+    {
+      "name": "Mrs. Stella Yundt",
+      "id": 9
+    },
+    {
+      "name": "May O'Reilly",
+      "id": 10
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
