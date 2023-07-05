@@ -3,6 +3,18 @@
     {
       "id": 1,
       "name": "Myra"
+    },
+    {
+      "name": "Ms. Darla Bartoletti",
+      "id": 2
+    },
+    {
+      "name": "Lola Aufderhar MD",
+      "id": 3
+    },
+    {
+      "name": "Dr. Joseph Hamill Jr.",
+      "id": 4
     }
   ],
   "albums": [],
