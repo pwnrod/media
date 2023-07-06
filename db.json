@@ -42,6 +42,11 @@
       "userId": 1,
       "title": "Handcrafted Rubber Pants",
       "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Wooden Bike",
+      "id": 6
     }
   ],
   "photos": []
