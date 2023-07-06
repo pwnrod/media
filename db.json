@@ -22,6 +22,11 @@
       "id": 1,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Modern Metal Chicken",
+      "id": 2
     }
   ],
   "photos": []
