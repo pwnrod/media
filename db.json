@@ -22,31 +22,6 @@
       "id": 1,
       "title": "Hiking Trip",
       "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Granite Hat",
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "title": "Handmade Rubber Gloves",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "title": "Gorgeous Concrete Bacon",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "title": "Handcrafted Rubber Pants",
-      "id": 5
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Wooden Bike",
-      "id": 6
     }
   ],
   "photos": []
