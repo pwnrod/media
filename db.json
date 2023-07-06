@@ -24,19 +24,14 @@
       "userId": 1
     },
     {
-      "userId": 2,
-      "title": "Ergonomic Fresh Pizza",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "title": "Small Fresh Salad",
-      "id": 5
-    },
-    {
       "userId": 1,
       "title": "Elegant Wooden Bike",
       "id": 6
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Soft Computer",
+      "id": 7
     }
   ],
   "photos": []
